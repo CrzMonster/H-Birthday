@@ -6,13 +6,12 @@ A simple, heartfelt birthday website made to wish **Vaibhavi** a Happy Birthday 
 
 ## 🎁 About
 
-This is a small personal project — a one-page birthday surprise built to celebrate someone special. It greets the visitor with a warm birthday message, plays background music, and displays a live running counter (days, hours, minutes, and seconds) tracking time since a special moment.
+This is a small personal project — a one-page birthday surprise built to celebrate someone special. It greets the visitor with a warm birthday message, plays background music.
 
 ## ✨ Features
 
 - 🎈 Personalized birthday greeting
 - 🎵 Background audio that plays on the page
-- ⏱️ Live day/hour/minute/second counter
 - 💕 Simple, clean, mobile-friendly design
 
 ## 🛠️ Built With
